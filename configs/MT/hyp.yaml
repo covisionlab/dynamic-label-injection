@@ -1,0 +1,23 @@
+model:
+  input_channels: 3
+  output_channels: 5
+  threshold: 0.50
+
+hyp:
+  batch_size: 64
+  epochs: 1000
+  lr: 0.0005
+  wd: 0
+  alpha: 0.50
+  beta: 0.50
+  scheduler: "cosine"
+
+data:
+    folder: "./data"
+    dset_name: "MT_dset"
+    num_classes: 6
+    augmentation_resize_height: 256
+    augmentation_resize_width: 256
+
+log:
+    checkpoint_folder: "./output"
