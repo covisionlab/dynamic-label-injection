@@ -1,4 +1,17 @@
-# Dynamic Label Injection for Imbalanced Industrial Defect Segmentation
+# Dynamic Label Injection for Imbalanced Industrial Defect Segmentation (ECCV Workshops 2024)
+
+This is the official implementation of the paper [**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**]().
+
+<p align="center">
+  <img src="imgs/dli.png" alt="DLI"/>
+</p> 
+
+## Installation
+
+Create your environment (Conda or Venv) and install the requirements with the following command:
+```bash
+pip install -r requirements.txt
+```
 
 ## Create MT dataset splits 
 
