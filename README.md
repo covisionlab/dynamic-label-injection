@@ -1,4 +1,4 @@
-# Dynamic Label Injection for Imbalanced Industrial Defect Segmentation (ECCV Workshop 2024)
+# Dynamic Label Injection for Imbalanced Industrial Defect Segmentation (ECCV 2024 Workshops)
 
 This is the official implementation of the paper [**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**]().
 
@@ -42,7 +42,7 @@ Please cite with the following BibTeX:
 @inproceedings{caruso2024dynamic,
   title={Dynamic Label Injection for Imbalanced Industrial Defect Segmentation},
   author={Caruso, Emanuele and Pelosin, Francesco and Simoni, Alessandro and Boschetti, Marco},
-  booktitle={Proceedings of the European Conference on Computer Vision Workshop},
+  booktitle={Proceedings of the European Conference on Computer Vision Workshops},
   year={2024}
 }
 ```
