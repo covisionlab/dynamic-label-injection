@@ -39,7 +39,7 @@ python train.py --seed 42
 Please cite with the following BibTeX:
 
 ```
-@inproceedings{poppi2024removing,
+@inproceedings{caruso2024dynamic,
   title={Dynamic Label Injection for Imbalanced Industrial Defect Segmentation},
   author={Caruso, Emanuele and Pelosin, Francesco and Simoni, Alessandro and Boschetti, Marco},
   booktitle={Proceedings of the European Conference on Computer Vision Workshop},
