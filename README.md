@@ -1,6 +1,6 @@
 # Dynamic Label Injection for Imbalanced Industrial Defect Segmentation (ECCV 2024 Workshops)
 
-This is the official implementation of the paper [**Dynamic Label Injection for Imbalanced Industrial Defect Segmentation**](https://www.arxiv.org/abs/2408.10031).
+This repository contains the official implementation of the paper: [Dynamic Label Injection for Imbalanced Industrial Defect Segmentation](https://www.arxiv.org/abs/2408.10031) accepted at VISION Workshop - ECCV 2024
 
 <p align="center">
   <img src="imgs/dli.png" alt="DLI"/>
